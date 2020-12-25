@@ -1,3 +1,4 @@
+**Note:** this repo was cloned from my university's Github where we originally used for development
 
 <h1 align="center">
   <br>
@@ -21,12 +22,6 @@
   <a href="#how-to-run">How to Run</a>
 </p>
 
-
-| Directory | Description |
-| --- | --- |
-| docs/ | Project landing page, communications plan, APIs, requirements, design, architecture, test plan, team organization PDFs |
-| routine-plus/ | Main codebase of the project |
-
 ## Welcome to Routine+
 Routine+ is an online platform for individuals or teams to organize daily/weekly/monthly routines by creating task boards with different columns and dragging and dropping the tasks between them. It features a beautiful drag-and-drop UI to allow a user to seamlessly manage their Tasks.
 
@@ -41,10 +36,10 @@ The application is a full-stack service that is built using the MERN stack and e
 
 ## Project Team
 
-| Name | GitHub Handle |
+| Name | Github Handle |
 | --- | --- | 
 | Junfeng Zhou | zjf |
-| Vy Thai | Thaivy| 
+| Vy Thai | incakoala | 
 | Yuan Yao| melofo | 
 | Wei Nien Chen | wtg30303 | 
 
